@@ -30,6 +30,11 @@ public class MainActivity extends AppCompatActivity {
         Intent i=new Intent(this,Read.class);
         startActivity(i);
     }
+    public void cf(View v)
+    {
+        Intent i=new Intent(this,MainActivity2.class);
+        startActivity(i);
+    }
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
