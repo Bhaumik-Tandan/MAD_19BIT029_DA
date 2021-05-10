@@ -8,11 +8,11 @@ com/example/mad19bit0292/Read.java
 com/example/mad19bit0292/Adapter.java
  com.example.mad19bit0292.Adapter
  com.example.mad19bit0292.Adapter$Viewholder
-com/example/mad19bit0292/MainActivity.java
- com.example.mad19bit0292.MainActivity
-com/example/mad19bit0292/BuildConfig.java
- com.example.mad19bit0292.BuildConfig
 com/example/mad19bit0292/MainActivity2.java
  com.example.mad19bit0292.MainActivity2
  com.example.mad19bit0292.MainActivity2$1
  com.example.mad19bit0292.MainActivity2$2
+com/example/mad19bit0292/BuildConfig.java
+ com.example.mad19bit0292.BuildConfig
+com/example/mad19bit0292/MainActivity.java
+ com.example.mad19bit0292.MainActivity
